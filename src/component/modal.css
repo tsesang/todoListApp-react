@@ -1,0 +1,23 @@
+.container{
+    width:"100vw";
+    height:"100vh";
+    top:"0px";
+    right:"0px";
+    position:"fixed";
+}
+
+    /* .overlay{
+        width: 100%;
+        height: 100%;
+        background-color: red;
+    } */
+
+
+/* .modal-content{
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 5px;
+    width: 10%;
+    margin: 10px auto;
+    background-color:bgColor;
+} */
